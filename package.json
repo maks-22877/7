@@ -1,0 +1,29 @@
+{
+  "name": "7",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maks-22877/7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maks-22877/7/issues"
+  },
+  "homepage": "https://github.com/maks-22877/7#readme",
+  "devDependencies": {
+    "@parcel/config-default": "^2.16.4",
+    "parcel": "^2.16.4",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.9"
+  }
+}
